@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest"
   },
+  "jest": {
+    "verbose": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/piesieomane/Testing-demo.git"
